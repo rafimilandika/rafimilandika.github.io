@@ -1,0 +1,192 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+a{
+	color:#222;
+text-decoration: none;}
+.header {
+	background-color: white;
+	width: 100%;
+	height: 40px;
+	z-index: 2	;
+	font-family: Adobe Heiti Std;
+}
+#HOME{
+color: black;
+padding-top: 0px;
+margin-left: 200px;
+margin-top: -10px;
+margin-bottom: 0px;
+float: left;
+}
+#VISI{
+color: black;
+padding-top: 0px;
+margin-left: 30px;
+margin-top: -10px;
+margin-bottom: 0px;
+float: left;
+}
+#STRUKTUR{
+color: black;
+padding-top: 0px;
+margin-left: 30px;
+margin-top: -10px;
+margin-bottom: 0px;
+float: left;
+}
+#KEGIATAN{
+color: black;
+padding-top: 0px;
+margin-left: 30px;
+margin-top: -10px;
+margin-bottom: 0px;
+float: left;
+}
+
+.container{
+	position: absolute;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+.wrapper{
+	position: absolute;
+	top: 0%;
+	left: 75%;
+}
+.input{
+	height: 3px;
+	width: 190px;
+	border: 1px solid black;
+	background: transparent;
+	padding: 15px 30px;
+	border-radius: 50px;
+	color: black;
+	font-size: 18px;
+	outline: none;
+}
+.tombol{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	cursor: pointer;
+	width: 100px;
+	height: 35px;
+	background: grey;
+	color: black;
+	border: 0;
+	border-radius: 50px;
+	outline: none;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#logo {
+	height: 30px;
+	width: 30px;
+	margin-left: 20px;
+	float: left;
+	padding-top: 5px;
+}
+.gambar{
+	background-image: url(nunjuk2.jpg);
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	background-position: center;
+}
+.judul{
+	font-size: 60px; 
+	color: white; 
+	margin-left: 550px; 
+	margin-top: 20px;"
+	font-family: Adobe Heiti Std;	
+}
+.gambar1{
+	background-image: url(berita2.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	margin-left: 50px;
+		height: 300px;
+	width: 300px;
+}
+.ket h1{
+	font-family: Adobe Heiti Std;
+margin-top: -310px;
+margin-left: 450px;
+}
+.ket h2{
+		font-family: Adobe Heiti Std;
+		margin-top: -20px;
+margin-left: 450px;
+font-size: 20px;
+}
+.ket h3{
+		font-family: Adobe Heiti Std;
+margin-left: 450px;	
+}
+.footer{
+	background-color: white;
+	margin-left: -10px;
+margin-top: 600px;
+padding-right: 10px;
+padding-left: 10px;
+	width: cover;
+	height: 300px;
+}
+.about{
+	font-family: Adobe Heiti Std;
+	margin-left: 150px;
+	padding-top: 50px; 	
+}
+.logoBEM{
+	height: 200px;
+	width: 200px;
+	margin-left: 90px;
+	float: left;
+	padding-top: 5px;
+}
+.footer h1{
+	font-family: Adobe Heiti Std;
+	font-size: 10pt;
+	padding-right: 65%;
+	padding-top: 20px;
+	text-align: justify all;	
+}
+.email{
+	font-family: Adobe Heiti Std;
+	margin-left: 600px;
+	margin-top: -250px; 		
+}
+.email h1{
+font-size: 10pt;	
+}
+.org{
+	font-family: Adobe Heiti Std;
+	margin-left: 1000px;
+	margin-top: -105px; 	
+}
+.org h1{
+font-size: 10pt;	
+}
+.contact{
+	font-family: Adobe Heiti Std;
+	font-size: 10pt;
+	margin-left: 600px;	
+}
+.fb{
+	height: 20px;
+	width: 20px;
+}
+.twt{
+	height: 20px;
+	width: 20px;
+}
+.ig{
+	height: 20px;
+	width: 20px;	
+}
